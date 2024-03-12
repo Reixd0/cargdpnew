@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#64DFDF"  # Main highlight color
+backgroundColor = "#252525"  # Background color
+secondaryBackgroundColor = "#6930C3" 
+textColor = "#E1E8EB"
