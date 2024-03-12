@@ -56,7 +56,7 @@ st.text("Please follow the column labels from the format, label the column you w
 # Model and scaler loading 
 @st.cache_resource 
 def load_my_model():
-    model = load_model('SimpleRNN_Forecasting-3.h5') 
+    model = load_model('SimpleRNN_Forecasting.h5') 
     return model
 
 @st.cache_resource 
